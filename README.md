@@ -4,7 +4,7 @@ Welcome to the repository for the blog post on understanding mutex in Go. This b
 
 ## Blog Post
 
-You can find the detailed blog post [here]().
+You can find the detailed blog post [here](https://kamnagarg-10157.medium.com/understanding-mutex-in-go-5f41199085b9).
 
 ## Code Examples
 
